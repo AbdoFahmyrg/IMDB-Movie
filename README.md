@@ -12,7 +12,7 @@ It focuses on movies released between 1927 and 2016. The project analyzes data r
 Clean Data:
 I cleaned the data I searched for duplicate rows using the Remove Duplicates feature but there were no duplicates I removed empty values from the rows and deleted columns that I thought I wouldn't use I corrected the text and removed extra spaces I split one column into multiple columns whether it was text or numbers.
 Some questions I asked for analysis:
--   How many movies which produced every year?
+-  How many movies which produced every year?
 -  Top ten movies with the most votes and least votes? 
 -  Top ten movies with the highest ratings?
 -  Top ten movies with the highest profits?
@@ -30,11 +30,22 @@ We will answer these questions by analyzing the data After adding new columns to
 data visualization:
 I used Excel pivot chart to create bar or pie charts to show data like ratings for each movie or production years I also used line charts to compare ratings over time or between different movies.
 
-
+This dashboard answers the questions.
+-  How many movies which produced every year?
+-  Top ten movies with the most votes and least votes? 
+-  Top ten movies with the highest ratings?
+-  Top ten movies with the highest profits?
 ![movies](https://github.com/user-attachments/assets/1b7a65d2-fd54-4447-b8a3-8b2e12e5e0a0)
 
+and This dashboard answers the questions.
+- Comparison of profit and gross of genres?
+- Which genres have made the most profits?
+-Which countries produce the most movies?
+- Which languages ​​have the most films produced?
+- Which countries have made the most profits from movies?
+- Top ten actors and directors who have made the most profits?
 
-
+![movies 2](https://github.com/user-attachments/assets/9601bedc-1bab-4012-b2f0-100e6696e7d3)
 
 
 

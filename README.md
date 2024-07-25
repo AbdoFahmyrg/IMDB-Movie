@@ -35,6 +35,7 @@ This dashboard answers the questions.
 -  Top ten movies with the most votes and least votes? 
 -  Top ten movies with the highest ratings?
 -  Top ten movies with the highest profits?
+-  
 ![movies](https://github.com/user-attachments/assets/1b7a65d2-fd54-4447-b8a3-8b2e12e5e0a0)
 
 and This dashboard answers the questions.

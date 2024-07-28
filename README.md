@@ -1,5 +1,6 @@
 # IMDB-Movie
 PROJECT IMDB MOVIE ANALYSIS:
+
 It aims to explore the factors affecting the popularity of movies and viewer preferences to understand what attracts them to cinema. This helps provide valuable insights into the film industry and what changes it needs.
 
 

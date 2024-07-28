@@ -6,7 +6,7 @@ It aims to explore the factors affecting the popularity of movies and viewer pre
 It focuses on movies released between 1927 and 2016. The project analyzes data related to these movies, including their ratings budgets, actors names and the countries that produced them The app aims to understand the factors affecting the success of movies with audiences and critics providing valuable insights for movie lovers and analysts Additionally it looks at trends over the decades and compares different genres to see what has changed over time.
 
 
-#### ** Techniques I used **
+## Techniques I used 
 
 #### Clean Data:
 I cleaned the data I searched for duplicate rows using the Remove Duplicates feature but there were no duplicates I removed empty values from the rows and deleted columns that I thought I wouldn't use I corrected the text and removed extra spaces I split one column into multiple columns whether it was text or numbers.

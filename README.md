@@ -4,7 +4,7 @@ PROJECT IMDB MOVIE ANALYSIS:
 It aims to explore the factors affecting the popularity of movies and viewer preferences to understand what attracts them to cinema. This helps provide valuable insights into the film industry and what changes it needs.
 
 
-Project Description:
+Project Description: 
 It focuses on movies released between 1927 and 2016. The project analyzes data related to these movies, including their ratings budgets, actors names and the countries that produced them The app aims to understand the factors affecting the success of movies with audiences and critics providing valuable insights for movie lovers and analysts Additionally it looks at trends over the decades and compares different genres to see what has changed over time.
 
 

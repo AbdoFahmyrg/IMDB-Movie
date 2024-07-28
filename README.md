@@ -22,7 +22,7 @@ I cleaned the data I searched for duplicate rows using the Remove Duplicates fea
 -  Which languages have the most movies produced?
 -  Which countries have made the most profits from movies?
 -  Top ten actors and directors who have made the most profits?
--  
+  
 #### Data analysis:
 We will answer these questions by analyzing the data After adding new columns to help with the analysis such as profit and genres, I used a pivot table to analyze it I used sum average and count to get quick summaries like average ratings or the number of movies in each genre.     I also used Excel tools to filter data by category year and profit to get deeper insights.
 
@@ -34,7 +34,7 @@ I used Excel pivot chart to create bar or pie charts to show data like ratings f
 -  Top ten movies with the most votes and least votes? 
 -  Top ten movies with the highest ratings?
 -  Top ten movies with the highest profits?
--  
+  
 ![movies](https://github.com/user-attachments/assets/1b7a65d2-fd54-4447-b8a3-8b2e12e5e0a0)
 
 #### and This dashboard answers the questions.
